@@ -2,4 +2,4 @@
 
 my work on the get next line project , school 42.
 
-Final scoor : 125/100
+Final score : 125/100
